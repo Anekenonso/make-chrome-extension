@@ -1,11 +1,11 @@
-{
-    "manifest_version": 2,
-    "name": "First Extension",
-    "description": "My first chrome extension!",
-    "version": "1.0.0",
-    "browser_action": {
-        "default_icon": "./logo/logo.png",
-        "default_popup": "popup.html"
-    },
-    "permissions": ["activeTab"]
-}
+{  
+    "manifest_version": 2,  
+    "name": "okenwa kenneth",  
+    "description": "welcome to your first chrome extension",  
+    "version": "1.0",  
+    "browser_action": {  
+        "default_icon": "logo/logo.png",  
+        "default_popup": "popup.html"  
+    },  
+    "permissions": ["activeTab"]  
+} 
